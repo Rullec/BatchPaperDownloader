@@ -1,0 +1,16 @@
+Video-guided real-to-virtual parameter transfer for viscous fluids
+Locking-Proof Tetrahedra
+Capture and modeling of non-linear heterogeneous soft tissue
+A novel discretization and numerical solver for non-fourier diffusion
+Anisotropic elasticity for inversion-safety and element rehabilitation
+Computational design and fabrication of soft pneumatic objects with desired deformations
+High-order differentiable autoencoder for nonlinear model reduction
+Real2Sim: visco-elastic parameter estimation from dynamic motion
+Numerical coarsening using discontinuous shape functions
+SIERE: A Hybrid Semi-Implicit Exponential Integrator for Efficiently Simulating Stiff Deformable Objects
+SANM: a symbolic asymptotic numerical solver with applications in mesh deformation
+Data-driven finite elements for geometry and material design
+Constitutive artificial neural networks: A fast and general approach to predictive data-driven constitutive modeling by deep learning
+Learning Constitutive Relations from Indirect Observations Using Deep Neural Networks
+A deep learning framework for constitutive modeling based on temporal convolutional network
+Constitutive model characterization and discovery using physics-informed deep learning
