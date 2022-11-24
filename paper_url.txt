@@ -1,0 +1,58 @@
+Video-guided real-to-virtual parameter transfer for viscous fluids| http://gamma.cs.unc.edu/ParameterTransfer/ParameterTransfer_supp.pdf
+Video-guided real-to-virtual parameter transfer for viscous fluids| http://gamma.cs.unc.edu/ParameterTransfer/ParameterTransfer_main.pdf
+Video-guided real-to-virtual parameter transfer for viscous fluids| https://www.semanticscholar.org/paper/Video-guided-real-to-virtual-parameter-transfer-for-Takahashi-Lin/bbff3b18181492d67c26392e3796c4a5cd51b02c
+Locking-Proof Tetrahedra| https://research.chalmers.se/publication/524762/file/524762_Fulltext.pdf
+Locking-Proof Tetrahedra| https://www.semanticscholar.org/paper/Locking-Proof-Tetrahedra-Tetrahedra-Fr%C3%A2ncu/f57794d02a47d25a323b83dc799d16f18dd78f52
+Locking-Proof Tetrahedra| https://www.academia.edu/2792025/Grow_and_fold_Compression_of_tetrahedral_meshes
+Capture and modeling of non-linear heterogeneous soft tissue| https://scholar.google.com.hk/scholar_url?url=https://hal.archives-ouvertes.fr/hal-01007233/file/Real.pdf&hl=zh-TW&sa=X&ei=HiZ-Y6y8AZCXywTpjZ64Bw&scisig=AAGBfm39kOw_AVjjm94-28bdUEzI1-rSeg&oi=scholarr
+Capture and modeling of non-linear heterogeneous soft tissue| https://scholar.google.com.hk/scholar_url?url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4012686/&hl=zh-TW&sa=X&ei=HiZ-Y6y8AZCXywTpjZ64Bw&scisig=AAGBfm3PswVE9boQOddn2L7xyX8sMBQnmw&oi=scholarr
+Capture and modeling of non-linear heterogeneous soft tissue| https://scholar.google.com.hk/scholar_url?url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0146588&hl=zh-TW&sa=X&ei=HiZ-Y6y8AZCXywTpjZ64Bw&scisig=AAGBfm3Yt8qkREceSwYQU1wDfGSgsfj0Iw&oi=scholarr
+Capture and modeling of non-linear heterogeneous soft tissue| https://dash.harvard.edu/bitstream/1/4100255/2/Bickel_Capture.pdf
+Capture and modeling of non-linear heterogeneous soft tissue| https://www.gmrv.es/Publications/2009/BBOMPG09/
+Capture and modeling of non-linear heterogeneous soft tissue| https://www.semanticscholar.org/paper/Capture-and-modeling-of-non-linear-heterogeneous-Bickel-B%C3%A4cher/d4f2e8668025a2bcd5422320ec5c6b9e0ca2eb43
+A novel discretization and numerical solver for non-fourier diffusion| https://scholar.google.com.hk/scholar_url?url=https://www.academia.edu/download/78457769/Non-Fourier_thermal_transport_in_fractur20220110-11700-47xfgt.pdf&hl=zh-TW&sa=X&ei=ISZ-Y6b0HJCXywTpjZ64Bw&scisig=AAGBfm1ckw1zQi334dkhHqcRjmrnmc5z8Q&oi=scholarr
+A novel discretization and numerical solver for non-fourier diffusion| https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0306456519301081&hl=zh-TW&sa=X&ei=ISZ-Y6b0HJCXywTpjZ64Bw&scisig=AAGBfm3q4Kao8LsHlK5pf7uMuasqyz-SaQ&oi=scholarr
+A novel discretization and numerical solver for non-fourier diffusion| https://scholar.google.com.hk/scholar_url?url=https://eprints.qut.edu.au/121072/1/P29_IJHMT_LZL_Y18.pdf&hl=zh-TW&sa=X&ei=ISZ-Y6b0HJCXywTpjZ64Bw&scisig=AAGBfm0dnkXRqXAQH69NzxA-ULgH89dREQ&oi=scholarr
+A novel discretization and numerical solver for non-fourier diffusion| https://www.math.ucla.edu/~cffjiang/research/xue2020diffusion/xue2020diffusion.pdf
+A novel discretization and numerical solver for non-fourier diffusion| https://orionquest.github.io/papers/NDNSNFD/paper.html
+Anisotropic elasticity for inversion-safety and element rehabilitation| http://www.tkim.graphics/ANISOTROPY/AnisotropyAndRehab.pdf
+Anisotropic elasticity for inversion-safety and element rehabilitation| https://graphics.pixar.com/library/AnisotropicElasticitySIGGRAPH2019/
+Anisotropic elasticity for inversion-safety and element rehabilitation| https://replicability.graphics/papers/10.1145-3306346.3323014/index.html
+Computational design and fabrication of soft pneumatic objects with desired deformations| https://scholar.google.com.hk/scholar_url?url=https://dspace.mit.edu/bitstream/handle/1721.1/107946/Niiyama-2015-Pouch%2520Motors_%2520Printable%2520Soft%2520Actu.pdf%3Fsequence%3D1%26isAllowed%3Dy&hl=zh-TW&sa=X&ei=LiZ-Y7arF5CXywTpjZ64Bw&scisig=AAGBfm0nhRnYq1navLs1bWhCgEB4LUPsKw&oi=scholarr
+Computational design and fabrication of soft pneumatic objects with desired deformations| https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0264127519304381&hl=zh-TW&sa=X&ei=LiZ-Y7arF5CXywTpjZ64Bw&scisig=AAGBfm3TAIprdGV0xVwCSc-shvNwbwFX9w&oi=scholarr
+Computational design and fabrication of soft pneumatic objects with desired deformations| https://scholar.google.com.hk/scholar_url?url=https://dspace.mit.edu/bitstream/handle/1721.1/100772/SoftRoboticsReview-FinalAuthorVersion.pdf%3Fsequence%3D1&hl=zh-TW&sa=X&ei=LiZ-Y7arF5CXywTpjZ64Bw&scisig=AAGBfm3jvEFoQCRXIPRyYl_7HT9Vhtef0w&oi=scholarr
+Computational design and fabrication of soft pneumatic objects with desired deformations| https://milkpku.github.io/project/pneumatic/Pneumatic_high.pdf
+High-order differentiable autoencoder for nonlinear model reduction| https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/am/pii/S0021999119306783&hl=zh-TW&sa=X&ei=NSZ-Y6vgL86vywTM0p3IDQ&scisig=AAGBfm0Lt0vfx1Frh6wik4mdJ7UHEVpwLQ&oi=scholarr
+High-order differentiable autoencoder for nonlinear model reduction| https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/am/pii/S0021999119303857&hl=zh-TW&sa=X&ei=NSZ-Y6vgL86vywTM0p3IDQ&scisig=AAGBfm2EVrTg_xW0-237O_P8CRoxhiLJ8w&oi=scholarr
+High-order differentiable autoencoder for nonlinear model reduction| https://arxiv.org/abs/2102.11026
+High-order differentiable autoencoder for nonlinear model reduction| https://eprints.whiterose.ac.uk/172996/1/2102.11026.pdf
+Real2Sim: visco-elastic parameter estimation from dynamic motion| http://crl.ethz.ch/papers/Real2Sim.pdf
+Real2Sim: visco-elastic parameter estimation from dynamic motion| https://helgewurdemann.files.wordpress.com/2021/07/azadeh_dynamic__modelling__and_parameter__identification__of_soft__manipulator__submitted_to_iros2021-1.pdf
+Numerical coarsening using discontinuous shape functions| https://www.google.com/preferences?hl=zh-TW
+Numerical coarsening using discontinuous shape functions| http://www.geometry.caltech.edu/pubs/CBWDH18.pdf
+Numerical coarsening using discontinuous shape functions| https://www.x-mol.com/paper/1368618570818936832?recommendPaper=1368618750054129664
+SIERE: A Hybrid Semi-Implicit Exponential Integrator for Efficiently Simulating Stiff Deformable Objects| https://www.cs.ubc.ca/~ascher/papers/csap.pdf
+SIERE: A Hybrid Semi-Implicit Exponential Integrator for Efficiently Simulating Stiff Deformable Objects| https://www.academia.edu/66128401/Simulating_deformable_objects_for_computer_animation_a_numerical_perspective
+SANM: a symbolic asymptotic numerical solver with applications in mesh deformation| https://arxiv.org/abs/2105.08535
+SANM: a symbolic asymptotic numerical solver with applications in mesh deformation| https://dspace.mit.edu/bitstream/handle/1721.1/145951/3450626.3459755.pdf?sequence=1&isAllowed=y
+Data-driven finite elements for geometry and material design| https://cdfg.mit.edu/assets/files/DDFEMMain_0.pdf
+Data-driven finite elements for geometry and material design| https://www.semanticscholar.org/paper/Data-driven-finite-elements-for-geometry-and-design-Chen-Levin/fbc8bd1509840511b5e3b859e030876f8647a47c
+Constitutive artificial neural networks: A fast and general approach to predictive data-driven constitutive modeling by deep learning| https://www.sciencedirect.com/science/article/pii/S0021999120307841
+Constitutive artificial neural networks: A fast and general approach to predictive data-driven constitutive modeling by deep learning| https://tore.tuhh.de/handle/11420/8334?mode=full
+Constitutive artificial neural networks: A fast and general approach to predictive data-driven constitutive modeling by deep learning| https://www.km.rwth-aachen.de/cms/KM/Forschung/Publikationen/~mphz/Details/?lidx=1&file=810330
+Constitutive artificial neural networks: A fast and general approach to predictive data-driven constitutive modeling by deep learning| https://link.springer.com/article/10.1007/s00466-021-02090-6
+Learning Constitutive Relations from Indirect Observations Using Deep Neural Networks| https://scholar.google.com.hk/scholar_url?url=https://www.sciencedirect.com/science/article/am/pii/S0021999120302655&hl=zh-TW&sa=X&ei=YyZ-Y52fEYW7ywTIwry4Bg&scisig=AAGBfm10da6aCmz9XMkaU2ZmIVoqkoN3AA&oi=scholarr
+Learning Constitutive Relations from Indirect Observations Using Deep Neural Networks| http://arxiv.org/abs/1905.12530
+Learning Constitutive Relations from Indirect Observations Using Deep Neural Networks| https://kailaix.github.io/ADCME.jl/v0.6/apps_constitutive_law/
+Learning Constitutive Relations from Indirect Observations Using Deep Neural Networks| https://www.researcher-app.com/paper/4907660
+Learning Constitutive Relations from Indirect Observations Using Deep Neural Networks| https://www.sciencedirect.com/science/article/am/pii/S0021999120302655
+A deep learning framework for constitutive modeling based on temporal convolutional network| https://www.google.com/preferences?hl=zh-TW
+A deep learning framework for constitutive modeling based on temporal convolutional network| https://ui.adsabs.harvard.edu/abs/2022JCoPh.44910784W/abstract
+A deep learning framework for constitutive modeling based on temporal convolutional network| https://www.x-mol.com/paper/1449649015445422080?adv
+Constitutive model characterization and discovery using physics-informed deep learning| https://scholar.google.com.hk/scholar_url?url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8130895/&hl=zh-TW&sa=X&ei=byZ-Y4nUDuqK6rQP7ZGx8A4&scisig=AAGBfm3NlwZyNK9Hz9Lm8xjQhUrr7wbUiA&oi=scholarr
+Constitutive model characterization and discovery using physics-informed deep learning| https://scholar.google.com.hk/scholar_url?url=https://engineering.purdue.edu/gomez/assets/pdf/art81.pdf&hl=zh-TW&sa=X&ei=byZ-Y4nUDuqK6rQP7ZGx8A4&scisig=AAGBfm2EZkLVTCVzeYTiJROBSP73_PAFrg&oi=scholarr
+Constitutive model characterization and discovery using physics-informed deep learning| https://scholar.google.com.hk/scholar_url?url=https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Nature-REviews_GK.pdf&hl=zh-TW&sa=X&ei=byZ-Y4nUDuqK6rQP7ZGx8A4&scisig=AAGBfm28MpZHXSgztuGPHWkWxp--joYoMQ&oi=scholarr
+Constitutive model characterization and discovery using physics-informed deep learning| http://arxiv.org/abs/2203.09789
+Constitutive model characterization and discovery using physics-informed deep learning| https://arxiv.org/pdf/2203.09789
+Constitutive model characterization and discovery using physics-informed deep learning| https://www.brown.edu/research/projects/crunch/sites/brown.edu.research.projects.crunch/files/uploads/Nature-REviews_GK.pdf
+Constitutive model characterization and discovery using physics-informed deep learning| https://www.mdpi.com/2504-2289/6/4/140
